@@ -8,12 +8,12 @@ hideSummary = true
 layout = "single"
 +++
 
-{{< figure src="/images/aiden-plain.jpg" alt="Aiden's Portrait" class="profile-image" >}}
+{{< figure src="images/aiden-plain.jpg" alt="Aiden's Portrait" class="profile-image" >}}
 
 # Welcome to My Portfolio 👋
 
 I'm **Aiden**, a passionate software developer and creative thinker. I specialize in *creating innovative solutions* through code.
 
-[View My Projects →](/projects)
+[View My Projects →](projects/)
 
 [Connect on LinkedIn →](https://www.linkedin.com/in/aiden-vandenbush/)
