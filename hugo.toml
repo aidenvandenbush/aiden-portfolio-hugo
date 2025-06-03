@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://aidenvandenbush.github.io/aiden-portfolio-hugo/'
 languageCode = 'en-us'
 title = 'Aiden Software Studio'
 theme = 'PaperMod'
