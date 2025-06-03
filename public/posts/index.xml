@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Aiden Software Studio</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Aiden Software Studio</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jun 2025 21:24:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>X Post Prediction Development Update</title>
+      <link>http://localhost:1313/posts/x-prediction-update/</link>
+      <pubDate>Mon, 02 Jun 2025 21:24:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/x-prediction-update/</guid>
+      <description>&lt;h1 id=&#34;x-post-prediction-progress&#34;&gt;X Post Prediction Progress&lt;/h1&gt;
+&lt;p&gt;Working on the &lt;strong&gt;X Post Prediction&lt;/strong&gt; tool has been an &lt;em&gt;amazing journey&lt;/em&gt;. Here&amp;rsquo;s what we&amp;rsquo;ve accomplished so far.&lt;/p&gt;
+&lt;h2 id=&#34;latest-developments&#34;&gt;Latest Developments&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented neural network architecture&lt;/li&gt;
+&lt;li&gt;Trained model on extensive dataset&lt;/li&gt;
+&lt;li&gt;Achieved 85% prediction accuracy&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Object Detection Project Launch</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Mon, 02 Jun 2025 21:23:51 -0500</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;project-launch-announcement&#34;&gt;Project Launch Announcement&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;excited&lt;/strong&gt; to announce the launch of my latest project - the &lt;em&gt;Object Detection Application&lt;/em&gt;. This innovative solution helps businesses streamline their inventory management processes.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-time object detection&lt;/li&gt;
+&lt;li&gt;Price estimation&lt;/li&gt;
+&lt;li&gt;Asset management integration&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

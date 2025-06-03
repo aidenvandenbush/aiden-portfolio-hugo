@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Aiden Software Studio'
+theme = 'PaperMod'
+
+[params]
+defaultTheme = "auto"
+ShowReadingTime = true
+custom_css = ["css/custom.css"]
+homeInfoParams = { Title = "Welcome", Content = "" }  # Empty content to prevent default
+showAllPostsOnHomePage = false
+showPostNavLinks = false
+showtoc = false
+
+# Disable profile mode to show index content
+[params.profileMode]
+enabled = false
+
+[menu]
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 10
+    
+[[menu.main]]
+identifier = "blog"
+name = "Posts"
+url = "/posts/"
+weight = 20
