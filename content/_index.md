@@ -14,6 +14,4 @@ layout = "single"
 
 I'm **Aiden**, a passionate software developer and creative thinker. I specialize in *creating innovative solutions* through code.
 
-[View My Projects →](projects/)
-
 [Connect on LinkedIn →](https://www.linkedin.com/in/aiden-vandenbush/)
